@@ -72,3 +72,4 @@ function resetAll() {
     tipPercentage = 0;
 
 }
+
