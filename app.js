@@ -65,6 +65,7 @@ function resetAll() {
     document.getElementById('tip-price').innerText = '0.00';
     document.getElementById('total-price').innerText = '0.00';
     document.querySelector('.reset-btn').disabled = true;
+    document.getElementById('reset').style.opacity = '0.2'
     document.getElementById('peopleInput').style.borderColor = 'white';
     document.getElementById('hidden').style.display = 'none';
     buttonss.forEach(btn => btn.classList.remove('active'));
