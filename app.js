@@ -1,12 +1,6 @@
 'use strict'
 
 
-// let input1 =  document.getElementById('billInput');
-// let input2 = document.getElementById('peopleInput');
-// let tip = document.getElementById('tip-price');
-// let tips = document.getElementById('total-price');
-// let resetbtn = document.getElementById('reset')
-// let invalid = document.getElementsByClassName('hidden')
 
 
 
@@ -56,7 +50,6 @@ function calculateTip() {
     }
   
 }
-
 
 
 
